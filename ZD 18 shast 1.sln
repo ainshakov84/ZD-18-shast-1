@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZD 18 shast 1", "ZD 18 shast 1\ZD 18 shast 1.csproj", "{F7B4B961-FFA1-4564-8B47-FDABD12803AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZD 18 shast 2", "ZD 18 shast 2\ZD 18 shast 2.csproj", "{12C4F5AF-FF39-41EB-A618-AE33A7FCB86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B4B961-FFA1-4564-8B47-FDABD12803AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B4B961-FFA1-4564-8B47-FDABD12803AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B4B961-FFA1-4564-8B47-FDABD12803AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B4B961-FFA1-4564-8B47-FDABD12803AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C4F5AF-FF39-41EB-A618-AE33A7FCB86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C4F5AF-FF39-41EB-A618-AE33A7FCB86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C4F5AF-FF39-41EB-A618-AE33A7FCB86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C4F5AF-FF39-41EB-A618-AE33A7FCB86A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9D03741-75F8-4F3F-8D97-1470E02A3B5D}
+	EndGlobalSection
+EndGlobal
